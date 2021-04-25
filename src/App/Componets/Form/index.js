@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import './Form.css';
 const axios = require('axios');
 
@@ -49,13 +49,13 @@ function Form() {
     let message;
     let checkEmail = validateEmail(email)
     // Error Check for Email and Password staus
-    if (email.trim() == "" && password.trim() == "") {
+    if (email.trim() === "" && password.trim() === "") {
       message = "Email and Password are required"
-    } else if (email.trim() == "") {
+    } else if (email.trim() === "") {
       message = "Email required"
     } else if (checkEmail === false) {
       message = "Incorrect email format"
-    } else if (password.trim() == "") {
+    } else if (password.trim() === "") {
       message = "Password required"
     } else if (checkEmail === true && password) {
       message = "Email and Password are good - Signing in (3sec)"
