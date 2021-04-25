@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SiginFormReact/static/css/main.88ed4574.chunk.css",
+    "main.js": "/SiginFormReact/static/js/main.18c67f02.chunk.js",
+    "main.js.map": "/SiginFormReact/static/js/main.18c67f02.chunk.js.map",
+    "runtime-main.js": "/SiginFormReact/static/js/runtime-main.40a2e851.js",
+    "runtime-main.js.map": "/SiginFormReact/static/js/runtime-main.40a2e851.js.map",
+    "static/js/2.0f968581.chunk.js": "/SiginFormReact/static/js/2.0f968581.chunk.js",
+    "static/js/2.0f968581.chunk.js.map": "/SiginFormReact/static/js/2.0f968581.chunk.js.map",
+    "static/js/3.90c14814.chunk.js": "/SiginFormReact/static/js/3.90c14814.chunk.js",
+    "static/js/3.90c14814.chunk.js.map": "/SiginFormReact/static/js/3.90c14814.chunk.js.map",
+    "index.html": "/SiginFormReact/index.html",
+    "static/css/main.88ed4574.chunk.css.map": "/SiginFormReact/static/css/main.88ed4574.chunk.css.map",
+    "static/js/2.0f968581.chunk.js.LICENSE.txt": "/SiginFormReact/static/js/2.0f968581.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40a2e851.js",
+    "static/js/2.0f968581.chunk.js",
+    "static/css/main.88ed4574.chunk.css",
+    "static/js/main.18c67f02.chunk.js"
+  ]
+}
