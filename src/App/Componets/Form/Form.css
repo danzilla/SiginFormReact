@@ -1,0 +1,53 @@
+/* Form Card style */
+  .card {
+    padding: 25px 35px;
+    border-top: 2px solid  #007233 ;
+    background-color: #fff;
+    transition: 0.3s;
+    width: auto;
+    transition: all 0.5s cubic-bezier(.25, .8, .25, 1);
+  }
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  /* Labels are bold and dark */
+  .boldLabels {
+    color: #000;
+    font-weight: bold;
+  }
+
+  /* Input Form container */
+  .inputForm {
+    font-weight: bold;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+  }
+
+  /* Submit Button */
+  .submitButton {
+    cursor: pointer;
+    color: #fff;
+    border: 1px solid #007233;
+    background-color: #007233;
+  }
+  .submitButton:hover {
+    border: 1px solid #005928;
+    background-color: #005928;
+  }
+
+  /* Labels and Text and Positions styles */
+  .textAlign { 
+    text-align: center; 
+  }
+  .paddingY1 {
+    padding-top: 1em !important;
+    padding-bottom: 1em !important;
+  }
+  .marginYno {
+    margin-top: 0em !important;
+    margin-bottom: 0em !important;
+  }
